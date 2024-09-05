@@ -4,4 +4,4 @@
 # Book Choice
 ## [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf) 
 ### Authors: Jure Leskovec - Stanford Univ, Anand Rajaraman - Milliway Labs, Jeffrey D. Ullman - Stanford Univ
-#### I was interested in this book because the mining of massive datasets to me is a very interesting undertaking. Not only do you need to understand how data minig works, there are additional challenges associated with the data mining of this level.  
+#### I was interested in this book because the mining of massive datasets to me is a very interesting undertaking. Not only do you need to understand how data mining works, but there are also additional challenges associated with the data mining of this level.    
